@@ -1,0 +1,85 @@
+.login-register {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+    padding: 10% 0;
+    position: fixed;
+}
+
+.login-box {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.login-box .footer {
+    width: 100%;
+    left: 0px;
+    right: 0px;
+}
+
+.login-box .social {
+    display: block;
+    margin-bottom: 30px;
+}
+
+#recoverform {
+    display: none;
+}
+
+.login-sidebar {
+    padding: 0px;
+    margin-top: 0px;
+}
+
+.login-sidebar .login-box {
+    right: 0px;
+    position: absolute;
+    height: 100%;
+}
+
+.espacioR {
+    margin: 35px;
+}
+
+.card {
+    box-shadow: 0 7px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+div {
+    padding: 4px;
+}
+
+.btnR {
+    margin-bottom: auto;
+    margin-top: 20px;
+}
+
+.imput {
+    margin-bottom: 10px;
+    ;
+}
+
+#img {
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin-left: 40px;
+}
+
+.TiTu {
+    margin-right: 50px;
+    padding-bottom: 15px;
+}
